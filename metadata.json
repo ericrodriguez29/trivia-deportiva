@@ -1,0 +1,6 @@
+{
+  "name": "Campaña Interactiva & Trivia Multijugador",
+  "description": "Aplicación interactiva en tiempo real para competir, responder trivias simultáneas, reaccionar con emojis y chatear entre participantes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
